@@ -67,7 +67,7 @@ class Builder_burger:
 
 builder = Builder_burger()
 builder.set_size_big()
-builder.set_filling_cheese()
+builder.set_filling_potato()
 builder.set_additionally_seasoning()
 print(builder.count_calories_builder())
 print(builder.count_price_builder())
